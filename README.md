@@ -47,7 +47,7 @@ This project was executed using both advanced BI tools (Power BI, Tableau) and f
    and data processing.
 
 * **4 Excel Setup:**
-   Open the provided Excel file to review preliminary analyses and data processing steps.
+   Open the provided [Excel file](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/Excel/Bank_Loan_Dashboard.xlsx) to review preliminary analyses and data processing steps.
 
 * **5 Power BI Setup:**
           Open the provided [Power BI file](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/powerBi/Bank_loan_report.pbit).
